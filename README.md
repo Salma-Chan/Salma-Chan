@@ -80,7 +80,7 @@
 
 
 <p align="center">
-  ![Cybermulan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Salma-Chan&theme=dark&show_icons=true)
+  ![Cybermulan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Salma-Chan&theme=dark&show_icons=true);
  </br>
  
 </p>
