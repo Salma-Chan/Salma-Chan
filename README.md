@@ -84,13 +84,12 @@
 <br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Salma-Chan&theme=radical&hide_border=true"/><br><br>
 <img align="center" src= "https://github-readme-stats.vercel.app/api?user=Salma-Chan&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/><br>
-<img align="center" src= "https://github-readme-streak-stats.herokuapp.com/?user=Salma-Chan&theme=radical&include_all_commits=true&count_private=true"/><br>
 <strong>💡 My Languages :</strong><br><br>
 <img src="https://img.shields.io/badge/-R-lightgrey?style=plastic"/>
 <img src="https://img.shields.io/badge/-HTML-lightgrey?style=plastic"/>
 <img src="https://img.shields.io/badge/-CSS-lightgrey?style=plastic"/>
 <img src="https://img.shields.io/badge/-C++-lightgrey?style=plastic"/><br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Salma-Chan&langs_count_private=true&theme=radical&card_width=445)<br><br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?user=Salma-Chan&langs_count_private=true&theme=radical&card_width=445)<br><br>
 
 <strong>🚀 My Latest Update :</strong><br><br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Salma-Chan&repo=Salma-Chan&theme=radical)](https://github.com/Kathryn-Jie/Kathryn-Jie)
