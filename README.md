@@ -83,7 +83,8 @@
   <strong>📊 My Github Stats :</strong><br><br>
 <br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Salma-Chan&theme=radical&hide_border=true"/><br><br>
-
+<img align="center" src= "https://github-readme-stats.vercel.app/api?user=Salma-Chan&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/><br>
+<img align="center" src= "https://github-readme-streak-stats.herokuapp.com/?user=Salma-Chan&theme=radical&include_all_commits=true&count_private=true"/><br>
 <strong>💡 My Languages :</strong><br><br>
 <img src="https://img.shields.io/badge/-R-lightgrey?style=plastic"/>
 <img src="https://img.shields.io/badge/-HTML-lightgrey?style=plastic"/>
