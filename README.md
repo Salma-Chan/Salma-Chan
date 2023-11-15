@@ -92,7 +92,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Salma-Chan&langs_count_private=true&theme=radical&card_width=445)<br><br>
 
 <strong>🚀 My Latest Update :</strong><br><br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Salma-Chan&repo=Kathryn-Jie&theme=radical)](https://github.com/Kathryn-Jie/Kathryn-Jie)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Salma-Chan&repo=Salma-Chan&theme=radical)](https://github.com/Kathryn-Jie/Kathryn-Jie)
 </div>
   
  </br>
