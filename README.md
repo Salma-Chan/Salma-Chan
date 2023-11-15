@@ -80,7 +80,7 @@
 
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Salma-Chan&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" />
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Salma-Chan&theme=dark&show_icons=true)
  </br>
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Salma-Chan"/>
  </br>
