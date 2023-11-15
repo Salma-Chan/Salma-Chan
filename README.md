@@ -80,11 +80,9 @@
 
 
 <p align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Salma-Chan&theme=dark&show_icons=true)
+  ![Cybermulan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Salma-Chan&theme=dark&show_icons=true)
  </br>
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Salma-Chan"/>
- </br>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salma-Chan&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent" />
+ 
 </p>
      
   </td>
