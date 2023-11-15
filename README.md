@@ -14,9 +14,9 @@
 - 🔧 I’m currently working on an online Tutoring site 
 
 - 💡 I’m curious about ...Blockchain and Crypto Currency.
-- 📖 I’m currently learning ...Flask.
+- 📖 I’m currently learning ...Swift.
 - ❄️ I’m looking to collaborate on ...Open Source Projects.
-- 📫 How to reach me ...gkaustav57@gmail.com.
+- 📫 How to reach me ...oommeechan92@gmail.com.
 
 <hr>
 
