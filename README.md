@@ -80,7 +80,20 @@
 
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Salma-Chan&theme=dark&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" />
+  <strong>📊 My Github Stats :</strong><br><br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kathryn-Jie&show_icons=true&count_private=true&include_all_commits=true&theme=radical)<br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kathryn-Jie&theme=radical&hide_border=true"/><br><br>
+
+<strong>💡 My Languages :</strong><br><br>
+<img src="https://img.shields.io/badge/-R-lightgrey?style=plastic"/>
+<img src="https://img.shields.io/badge/-HTML-lightgrey?style=plastic"/>
+<img src="https://img.shields.io/badge/-CSS-lightgrey?style=plastic"/>
+<img src="https://img.shields.io/badge/-C++-lightgrey?style=plastic"/><br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kathryn-Jie&langs_count_private=true&theme=radical&card_width=445)<br><br>
+
+<strong>🚀 My Latest Update :</strong><br><br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kathryn-Jie&repo=Kathryn-Jie&theme=radical)](https://github.com/Kathryn-Jie/Kathryn-Jie)
+</div>
   
  </br>
  
