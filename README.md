@@ -13,10 +13,10 @@
 
 - 🔧 I’m currently working on an online Tutoring site 
 
-- 💡 I’m curious about ...Blockchain and Crypto Currency.
-- 📖 I’m currently learning ...Swift.
-- ❄️ I’m looking to collaborate on ...Open Source Projects.
-- 📫 How to reach me ...oommeechan92@gmail.com.
+- 💡 I’m curious about Cloud computing and Cyber security 
+- 📖 I’m currently learning Swift.
+- ❄️ I’m looking to collaborate on Open Source Projects.
+- 📫 How to reach me oommeechan92@gmail.com.
 
 <hr>
 
@@ -83,13 +83,13 @@
   <strong>📊 My Github Stats :</strong><br><br>
 <br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Salma-Chan&theme=radical&hide_border=true"/><br><br>
-<img align="center" src= "https://github-readme-stats.vercel.app/api?user=Salma-Chan&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/><br>
+
 <strong>💡 My Languages :</strong><br><br>
 <img src="https://img.shields.io/badge/-R-lightgrey?style=plastic"/>
 <img src="https://img.shields.io/badge/-HTML-lightgrey?style=plastic"/>
 <img src="https://img.shields.io/badge/-CSS-lightgrey?style=plastic"/>
 <img src="https://img.shields.io/badge/-C++-lightgrey?style=plastic"/><br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?user=Salma-Chan&langs_count_private=true&theme=radical&card_width=445)<br><br>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?user=Salma-Chan&langs_count_private=true&theme=radical&card_width=445"/><br><br>
 
 <strong>🚀 My Latest Update :</strong><br><br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Salma-Chan&repo=Salma-Chan&theme=radical)](https://github.com/Kathryn-Jie/Kathryn-Jie)
