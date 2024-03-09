@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Cybermulan;Full+stack+web+developer...;Founder+and+CEO+of Cobweb+Developers...;Active+Open+Source+Contributor..."/>
  
- <p>- <i>A comp-sci undergraduate student and an aspiring software developer with good problem-solving skills. Able to perform well in a team. Passionate about coding and equipped with a diverse and promising skill set, placing a special emphasis on writing good quality code. Also regularly write technical content and articles for various popular tech sites.</i></p>
+ <p>- <i>A Computer Science undergraduate student and an aspiring software developer with good problem-solving skills. Able to perform well in a team. Passionate about coding and equipped with a diverse and promising skill set, placing a special emphasis on writing good quality code. Also regularly write technical content and articles for various popular tech sites.</i></p>
 
 
 <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
@@ -37,7 +37,11 @@
 ![Java](https://img.shields.io/badge/Java-%23150458.svg?style=flat&logo=java&logoColor=orange)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=blue&color=0B2C4A)&nbsp;
-//![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![ASP.NET](https://img.shields.io/badge/ASP.NET-%23150458.svg?style=flat&logo=.net&logoColor=512BD4)&nbsp;
+![C#](https://img.shields.io/badge/C%23-%23121011.svg?style=flat&logo=c-sharp&logoColor=239120)&nbsp;
+
 
 
 #### Development
