@@ -2,7 +2,7 @@
 
 ## Auto-Typing Text
 
-<div id="autoTypeText"></div>
+<div id="autoTypeText">
 
 <script>
   const textToType = "If at first, you don't succeed, call it version 1.0.";
@@ -30,7 +30,7 @@
   // Start auto-typing when the page loads
   document.addEventListener("DOMContentLoaded", startTyping);
 </script>
-
+</div>
  
  <p>- <i>A Computer Science undergraduate student and an aspiring software developer with good problem-solving skills. Able to perform well in a team. Passionate about coding and equipped with a diverse and promising skill set, placing a special emphasis on writing good quality code. Also regularly write technical content and articles for various popular tech sites.</i></p>
 
