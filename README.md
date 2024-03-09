@@ -1,6 +1,36 @@
 # Hey there👋, Welcome to my Github Profile
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Cybermulan;Full+stack+web+developer...;Founder+and+CEO+of Cobweb+Developers...;Active+Open+Source+Contributor..."/>
+## Auto-Typing Text
+
+<div id="autoTypeText"></div>
+
+<script>
+  const textToType = ""If at first, you don't succeed, call it version 1.0."";
+  const speed = 50; // Adjust the speed (in milliseconds) of typing
+
+  function typeWriter(text, i, fnCallback) {
+    if (i < text.length) {
+      document.getElementById("autoTypeText").innerHTML += text.charAt(i);
+      i++;
+      setTimeout(function () {
+        typeWriter(text, i, fnCallback);
+      }, speed);
+    } else if (typeof fnCallback == "function") {
+      setTimeout(fnCallback, 1000); // Delay after typing is complete
+    }
+  }
+
+  function startTyping() {
+    document.getElementById("autoTypeText").innerHTML = "";
+    typeWriter(textToType, 0, function () {
+      // Additional callback or actions after typing is complete
+    });
+  }
+
+  // Start auto-typing when the page loads
+  document.addEventListener("DOMContentLoaded", startTyping);
+</script>
+
  
  <p>- <i>A Computer Science undergraduate student and an aspiring software developer with good problem-solving skills. Able to perform well in a team. Passionate about coding and equipped with a diverse and promising skill set, placing a special emphasis on writing good quality code. Also regularly write technical content and articles for various popular tech sites.</i></p>
 
