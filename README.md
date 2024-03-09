@@ -1,4 +1,4 @@
-# Hey there👋, Welcome to my Github Profile
+![Hey there, I'm CyberMulan. I'm Currently an undergraduate in Computer Science and Informatics. I'm an aspiring Cyber Security Analyst in the sec dept.]
 
  
  <p>- <i>A Computer Science undergraduate student and an aspiring software developer with good problem-solving skills. Able to perform well in a team. Passionate about coding and equipped with a diverse and promising skill set, placing a special emphasis on writing good quality code. Also regularly write technical content and articles for various popular tech sites.</i></p>
