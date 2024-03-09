@@ -5,7 +5,7 @@
 <div id="autoTypeText"></div>
 
 <script>
-  const textToType = ""If at first, you don't succeed, call it version 1.0."";
+  const textToType = "If at first, you don't succeed, call it version 1.0.";
   const speed = 50; // Adjust the speed (in milliseconds) of typing
 
   function typeWriter(text, i, fnCallback) {
