@@ -1,36 +1,5 @@
 # Hey there👋, Welcome to my Github Profile
 
-## Auto-Typing Text
-
-<div id="autoTypeText">
-
-<script>
-  const textToType = "If at first, you don't succeed, call it version 1.0.";
-  const speed = 50; // Adjust the speed (in milliseconds) of typing
-
-  function typeWriter(text, i, fnCallback) {
-    if (i < text.length) {
-      document.getElementById("autoTypeText").innerHTML += text.charAt(i);
-      i++;
-      setTimeout(function () {
-        typeWriter(text, i, fnCallback);
-      }, speed);
-    } else if (typeof fnCallback == "function") {
-      setTimeout(fnCallback, 1000); // Delay after typing is complete
-    }
-  }
-
-  function startTyping() {
-    document.getElementById("autoTypeText").innerHTML = "";
-    typeWriter(textToType, 0, function () {
-      // Additional callback or actions after typing is complete
-    });
-  }
-
-  // Start auto-typing when the page loads
-  document.addEventListener("DOMContentLoaded", startTyping);
-</script>
-</div>
  
  <p>- <i>A Computer Science undergraduate student and an aspiring software developer with good problem-solving skills. Able to perform well in a team. Passionate about coding and equipped with a diverse and promising skill set, placing a special emphasis on writing good quality code. Also regularly write technical content and articles for various popular tech sites.</i></p>
 
@@ -112,24 +81,15 @@
 </td>
     <td>
   
-## 📄📜 Stats
+## &#x1f4c8; GitHub Stats
 
-
-<p align="center">
-  <strong>📊 My Github Stats :</strong><br><br>
-<br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Salma-Chan&theme=radical&hide_border=true"/><br><br>
-
-<strong>💡 My Languages :</strong><br><br>
-<img src="https://img.shields.io/badge/-R-lightgrey?style=plastic"/>
-<img src="https://img.shields.io/badge/-HTML-lightgrey?style=plastic"/>
-<img src="https://img.shields.io/badge/-CSS-lightgrey?style=plastic"/>
-<img src="https://img.shields.io/badge/-C++-lightgrey?style=plastic"/><br>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?user=Salma-Chan&langs_count_private=true&theme=radical&card_width=445"/><br><br>
-
-<strong>🚀 My Latest Update :</strong><br><br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Salma-Chan&repo=Salma-Chan&theme=radical)](https://github.com/Kathryn-Jie/Kathryn-Jie)
-</div>
+<a href="https://github.com/Salma-Chan/Salma-Chan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salma-Chan&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/Salma-Chan/Salma-Chan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Salma-Chan&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
+ 
   
  </br>
  
